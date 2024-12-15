@@ -52,7 +52,7 @@ body {
 .content {
     display: flex;
     flex-direction: column;
-    gap: 0.75em;
+    gap: 12px;
 }
 
 .category {
